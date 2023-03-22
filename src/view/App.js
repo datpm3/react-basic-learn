@@ -1,5 +1,8 @@
 import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+// import React, { Component } from 'react';
+import React from 'react';
+
 
 function App() {
   return (
